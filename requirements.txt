@@ -1,0 +1,7 @@
+streamlit
+openai
+python-dotenv
+datasets
+faiss-cpu
+tqdm
+tiktoken
